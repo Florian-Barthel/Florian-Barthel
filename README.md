@@ -8,8 +8,7 @@ My interests are: Generative 3D Models, 3DGS, 3DGS Compression, VR and Dynamic G
 - [scholar](https://scholar.google.de/citations?user=KBxqk0MAAAAJ&hl=de)
 - [linkedin](https://www.linkedin.com/in/florian-barthel-9583b9208/)
 
-[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=Florian-Barthel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Florian-Barthel's Stats](https://github-readme-stats.vercel.app/api?username=Florian-Barthel&theme=vue&show_icons=true&hide_border=true&count_private=true)
 ![Florian-Barthel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-Barthel&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Florian-Barthel&style=flat)
